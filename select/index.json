@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "first penguin",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-28T18:25:13.039745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "first penguin",
+      "artist": "Creepy Nuts",
+      "has_synced": false,
+      "path": "select/01_first_penguin_Creepy_Nuts.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "first penguin",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_first_penguin_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "first penguin",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_first_penguin_CreepyNuts.txt"
+    }
+  ]
+}
